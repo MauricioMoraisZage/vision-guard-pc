@@ -14,6 +14,22 @@
 
 ---
 
+## Descarregar para Windows
+
+### [Descarregar o Vision Guard PC v1.0.0](https://github.com/MauricioMoraisZage/vision-guard-pc/releases/latest/download/VisionGuardPC-1.0.0-Windows-x64.exe)
+
+O Vision Guard PC está atualmente disponível como aplicação portátil para Windows 10 e Windows 11.
+
+1. Descarregue o ficheiro `.exe` através do link acima.
+2. Execute o ficheiro descarregado.
+3. Não é necessário instalar o Python nem configurar um ambiente de desenvolvimento.
+
+> **Importante:** Não utilize **Code → Download ZIP** nem `git clone` para instalar o Vision Guard PC. Este repositório público contém a documentação do produto. A aplicação pronta para utilização está disponível através do **GitHub Releases**.
+
+Também pode abrir a [página da versão mais recente](https://github.com/MauricioMoraisZage/vision-guard-pc/releases/latest) para consultar as notas da versão e descarregar o checksum SHA-256 opcional.
+
+---
+
 ## Sobre o Vision Guard PC
 
 O **Vision Guard PC** é uma aplicação de bem-estar para desktop criada para ajudar as pessoas a desenvolver hábitos mais saudáveis durante a utilização do computador.
