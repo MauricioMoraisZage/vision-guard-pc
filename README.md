@@ -163,20 +163,84 @@ Statistics and Settings open using the same size and state as the main applicati
 
 ## Screenshots
 
-Application screenshots will be added before the first public release.
+### Main dashboard
 
-Planned screenshots:
+<p align="center">
+  <img
+    src="docs/screenshots/dashboard-en.png"
+    alt="Vision Guard PC main dashboard in English"
+    width="900"
+  >
+</p>
 
-* English dashboard
-* Portuguese dashboard
-* Settings
-* Usage statistics
-* Focus Mode
-* Entertainment Mode
-* Visual break
-* Physical break
+### Focus Mode and Entertainment Mode
 
----
+<table>
+  <tr>
+    <td width="50%">
+      <img
+        src="docs/screenshots/focus-mode.png"
+        alt="Vision Guard PC Focus Mode"
+      >
+    </td>
+    <td width="50%">
+      <img
+        src="docs/screenshots/entertainment-mode.png"
+        alt="Vision Guard PC Entertainment Mode"
+      >
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Focus Mode</strong></td>
+    <td align="center"><strong>Entertainment Mode</strong></td>
+  </tr>
+</table>
+
+### Settings and usage statistics
+
+<table>
+  <tr>
+    <td width="50%">
+      <img
+        src="docs/screenshots/settings-en.png"
+        alt="Vision Guard PC Settings"
+      >
+    </td>
+    <td width="50%">
+      <img
+        src="docs/screenshots/statistics-en.png"
+        alt="Vision Guard PC usage statistics"
+      >
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Customisable settings</strong></td>
+    <td align="center"><strong>Usage statistics</strong></td>
+  </tr>
+</table>
+
+### Visual and physical breaks
+
+<table>
+  <tr>
+    <td width="50%">
+      <img
+        src="docs/screenshots/visual-break.png"
+        alt="Vision Guard PC visual break"
+      >
+    </td>
+    <td width="50%">
+      <img
+        src="docs/screenshots/physical-break.png"
+        alt="Vision Guard PC physical break"
+      >
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Visual break</strong></td>
+    <td align="center"><strong>Physical break</strong></td>
+  </tr>
+</table>
 
 ## Privacy
 

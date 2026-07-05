@@ -163,20 +163,86 @@ As janelas de Estatísticas e Configurações abrem com o mesmo tamanho e estado
 
 ## Imagens da aplicação
 
-As imagens serão adicionadas antes da primeira versão pública.
+### Painel principal em português
 
-Imagens planeadas:
+<p align="center">
+  <img
+    src="docs/screenshots/dashboard-pt.png"
+    alt="Painel principal do Vision Guard PC em português"
+    width="900"
+  >
+</p>
 
-* painel principal em inglês;
-* painel principal em português;
-* Configurações;
-* Estatísticas;
-* Modo Foco;
-* Modo Entretenimento;
-* pausa visual;
-* pausa física.
+As imagens adicionais apresentam a interface em inglês. O idioma pode ser alterado para português nas Configurações.
 
----
+### Modo Foco e Modo Entretenimento
+
+<table>
+  <tr>
+    <td width="50%">
+      <img
+        src="docs/screenshots/focus-mode.png"
+        alt="Modo Foco do Vision Guard PC"
+      >
+    </td>
+    <td width="50%">
+      <img
+        src="docs/screenshots/entertainment-mode.png"
+        alt="Modo Entretenimento do Vision Guard PC"
+      >
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Modo Foco</strong></td>
+    <td align="center"><strong>Modo Entretenimento</strong></td>
+  </tr>
+</table>
+
+### Configurações e estatísticas
+
+<table>
+  <tr>
+    <td width="50%">
+      <img
+        src="docs/screenshots/settings-en.png"
+        alt="Configurações do Vision Guard PC"
+      >
+    </td>
+    <td width="50%">
+      <img
+        src="docs/screenshots/statistics-en.png"
+        alt="Estatísticas de utilização do Vision Guard PC"
+      >
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Configurações personalizáveis</strong></td>
+    <td align="center"><strong>Estatísticas de utilização</strong></td>
+  </tr>
+</table>
+
+### Pausas visual e física
+
+<table>
+  <tr>
+    <td width="50%">
+      <img
+        src="docs/screenshots/visual-break.png"
+        alt="Pausa visual do Vision Guard PC"
+      >
+    </td>
+    <td width="50%">
+      <img
+        src="docs/screenshots/physical-break.png"
+        alt="Pausa física do Vision Guard PC"
+      >
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Pausa visual</strong></td>
+    <td align="center"><strong>Pausa física</strong></td>
+  </tr>
+</table>
 
 ## Privacidade
 
