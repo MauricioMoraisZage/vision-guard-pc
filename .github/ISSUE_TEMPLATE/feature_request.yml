@@ -1,0 +1,56 @@
+name: Feature request
+description: Suggest an improvement for Vision Guard PC
+title: "[Feature]: "
+labels:
+
+* enhancement
+  body:
+
+* type: textarea
+  id: problem
+  attributes:
+  label: Problem or need
+  description: Explain what problem the feature would solve.
+  validations:
+  required: true
+
+* type: textarea
+  id: proposal
+  attributes:
+  label: Proposed solution
+  description: Describe how the feature should work.
+  validations:
+  required: true
+
+* type: dropdown
+  id: area
+  attributes:
+  label: Application area
+  options:
+  - Main dashboard
+  - Settings
+  - Statistics
+  - Visual breaks
+  - Physical breaks
+  - Focus Mode
+  - Entertainment Mode
+  - Accessibility
+  - Windows integration
+  - macOS support
+  - Linux support
+  - Other
+  validations:
+  required: true
+
+* type: textarea
+  id: alternatives
+  attributes:
+  label: Alternatives considered
+
+* type: checkboxes
+  id: confirmation
+  attributes:
+  label: Confirmation
+  options:
+  - label: I checked that a similar feature has not already been requested.
+  required: true
