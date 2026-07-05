@@ -39,11 +39,13 @@ A aplicação segue uma abordagem local. As configurações e os dados de utiliz
 
 | Plataforma      | Estado                                |
 | --------------- | ------------------------------------- |
-| Windows 10      | Primeira versão pública em preparação |
-| Windows 11      | Primeira versão pública em preparação |
+| Windows 10 | Disponível — v1.0.0 |
+| Windows 11 | Disponível — v1.0.0 |
 | macOS           | Planeado                              |
 | Linux           | Planeado                              |
 | Microsoft Store | Planeado                              |
+
+O Vision Guard PC v1.0.0 está disponível para Windows 10 e Windows 11.
 
 A primeira versão estável será direcionada ao Windows.
 
@@ -267,7 +269,7 @@ Uma política de privacidade completa estará disponível no ficheiro `PRIVACY.m
 
 ## Downloads
 
-A primeira versão oficial para Windows está atualmente em preparação.
+O Vision Guard PC v1.0.0 para Windows já está disponível através da página oficial do GitHub Releases.
 
 Quando estiver disponível, poderá ser descarregada através de:
 

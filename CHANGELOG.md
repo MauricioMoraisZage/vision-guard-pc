@@ -12,6 +12,12 @@ This project follows [Semantic Versioning](https://semver.org/):
 
 ## [Unreleased]
 
+No unreleased changes.
+
+---
+
+## [1.0.0] — 2026-07-05
+
 ### Added
 
 * Native Windows desktop application for healthier computer-use habits
@@ -100,13 +106,6 @@ This project follows [Semantic Versioning](https://semver.org/):
 
 ---
 
-## [1.0.0] — To be released
-
-The first stable public release of Vision Guard PC for Windows 10 and Windows 11.
-
-The final release date and downloadable files will be added after the Windows executable has completed release validation.
-
----
 
 ## Versioning guide
 
