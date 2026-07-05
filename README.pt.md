@@ -246,6 +246,17 @@ As imagens adicionais apresentam a interface em inglês. O idioma pode ser alter
   </tr>
 </table>
 
+## Descarregar e executar
+
+O Vision Guard PC v1.0.0 é distribuído como uma aplicação portátil para Windows. Não necessita de instalação.
+
+1. Abra a [versão oficial mais recente](https://github.com/MauricioMoraisZage/vision-guard-pc/releases/latest).
+2. Descarregue `VisionGuardPC-1.0.0-Windows-x64.exe`.
+3. Opcionalmente, descarregue o ficheiro `.sha256` para verificar a integridade.
+4. Execute o programa.
+
+> O Microsoft Defender SmartScreen poderá apresentar um aviso de transferência pouco frequente porque esta primeira versão é nova e ainda não possui assinatura digital. Descarregue o Vision Guard PC apenas deste repositório oficial.
+
 ## Privacidade
 
 O Vision Guard PC foi criado seguindo uma abordagem local.

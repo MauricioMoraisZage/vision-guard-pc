@@ -244,6 +244,17 @@ Statistics and Settings open using the same size and state as the main applicati
   </tr>
 </table>
 
+## Download and run
+
+Vision Guard PC v1.0.0 is distributed as a portable Windows application. It does not require installation.
+
+1. Open the [latest official release](https://github.com/MauricioMoraisZage/vision-guard-pc/releases/latest).
+2. Download `VisionGuardPC-1.0.0-Windows-x64.exe`.
+3. Optionally download the `.sha256` file to verify its integrity.
+4. Run the executable.
+
+> Microsoft Defender SmartScreen may display an uncommon-download warning because this first release is new and is not yet digitally signed. Download Vision Guard PC only from this official repository.
+
 ## Privacy
 
 Vision Guard PC was designed with a local-first approach.
