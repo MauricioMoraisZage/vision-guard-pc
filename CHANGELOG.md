@@ -16,6 +16,22 @@ No unreleased changes.
 
 ---
 
+## [1.0.1] — 2026-07-06
+
+### Added
+
+- Clickable technical support email in the application interface.
+- Startup and runtime logging for troubleshooting.
+
+### Fixed
+
+- Improved Windows autostart reliability by copying the executable to a stable location within the user's local application data directory.
+- Automatic repair of outdated Windows startup registry entries.
+- Delayed system tray initialisation during Windows sign-in.
+- Verification that the system tray icon is ready before completing startup.
+
+---
+
 ## [1.0.0] — 2026-07-05
 
 ### Added

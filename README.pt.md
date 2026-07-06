@@ -55,13 +55,13 @@ A aplicação segue uma abordagem local. As configurações e os dados de utiliz
 
 | Plataforma      | Estado                                |
 | --------------- | ------------------------------------- |
-| Windows 10 | Disponível — v1.0.0 |
-| Windows 11 | Disponível — v1.0.0 |
+| Windows 10 | Disponível — v1.0.1 |
+| Windows 11 | Disponível — v1.0.1 |
 | macOS           | Planeado                              |
 | Linux           | Planeado                              |
 | Microsoft Store | Planeado                              |
 
-O Vision Guard PC v1.0.0 está disponível para Windows 10 e Windows 11.
+O Vision Guard PC v1.0.1 está disponível para Windows 10 e Windows 11.
 
 A primeira versão estável será direcionada ao Windows.
 
@@ -264,10 +264,10 @@ As imagens adicionais apresentam a interface em inglês. O idioma pode ser alter
 
 ## Descarregar e executar
 
-O Vision Guard PC v1.0.0 é distribuído como uma aplicação portátil para Windows. Não necessita de instalação.
+O Vision Guard PC v1.0.1 é distribuído como uma aplicação portátil para Windows. Não necessita de instalação.
 
 1. Abra a [versão oficial mais recente](https://github.com/MauricioMoraisZage/vision-guard-pc/releases/latest).
-2. Descarregue `VisionGuardPC-1.0.0-Windows-x64.exe`.
+2. Descarregue `VisionGuardPC-1.0.1-Windows-x64.exe`.
 3. Opcionalmente, descarregue o ficheiro `.sha256` para verificar a integridade.
 4. Execute o programa.
 
@@ -296,7 +296,7 @@ Uma política de privacidade completa estará disponível no ficheiro `PRIVACY.m
 
 ## Downloads
 
-O Vision Guard PC v1.0.0 para Windows já está disponível através da página oficial do GitHub Releases.
+O Vision Guard PC v1.0.1 para Windows já está disponível através da página oficial do GitHub Releases.
 
 Quando estiver disponível, poderá ser descarregada através de:
 
