@@ -16,6 +16,23 @@ No unreleased changes.
 
 ---
 
+## [1.0.2] — 2026-07-06
+
+### Changed
+
+- Simplified the main dashboard actions.
+- Removed internal testing buttons from the main dashboard.
+- Expanded the Statistics and Settings buttons to better use the available space.
+
+### Removed
+
+- Removed the following testing actions from the main dashboard:
+  - Test reminder
+  - Test visual break
+  - Test physical break
+
+---
+
 ## [1.0.1] — 2026-07-06
 
 ### Added
